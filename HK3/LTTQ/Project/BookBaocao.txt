@@ -1,0 +1,14 @@
+Vấn đáp ngày 2/1 ( linh động, tuần nào cũng đc, chọn thứ 3)
+
+Chọn lịch trên calendar mình
+Thêm khách là email thầy: anhht@uit.edu.vn
+Không book vào tuần: 26/12-> 29/12
+Trễ nhất là 16/01
+Báo cáo online
+Viết báo cáo cần tìm mẫu báo cáo đồ án NMCNPM
+
+Tìm hiểu về mẫu thiết kế
+Project dùng mẫu thiết kế gì kể ra trong buổi báo cáo
+Installer: Rundesk, Inno Setup Installer (Windows)
+Tìm hiểu công cụ chống bị biên dịch ngược
+Tuần sau tìm hiểu về Startup

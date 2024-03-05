@@ -1,0 +1,12 @@
+xinchao=Hello
+echo $xinchao
+-> Output: Hello
+
+xinchao="I am Tri"
+echo $xinchao
+-> Output: I am Tri
+
+read yourname
+echo "Hello " $yourname
+*Input: Tri
+*Output: Hello Tri

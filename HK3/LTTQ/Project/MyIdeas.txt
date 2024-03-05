@@ -1,0 +1,11 @@
+- Làm một bộ Daily Quotes ( kiểu câu nói truyền động lực, healing, kiến thức,..) bằng tiếng Việt/ t.Anh. Mỗi ngày sẽ hiển thị ngẫu nhiên 1 câu khi user mở app.
+- Whiteboard ( nếu muốn hướng đến việc cho user take note bài giảng, nội dung cuộc họp, hoặc phác thảo trước chủ đề buổi học, công việc cần làm): công cụ đính kèm của mỗi task đã lên lịch trên Calendar, cho phép user save lại.
+- Cho phép user customize một vài khu vực (UI/UX)
++ Background chính của app
++ Background dùng Pomodoro (có vài ảnh đề xuất+ cho phép user tải ảnh lên)+ nhạc nền ( đề xuất sẵn: Lofi, Jazz, Piano, White Noise, Cafe/Bookstore/Library Ambience) + tiếng reo nhẹ ( kiểu tiếng chuông gió) khi đếm hết 25p học hoặc 5p nghỉ 
++ Ảnh nền/bộ màu nền của mỗi task/lịch hẹn trên Calendar, một bộ icon hiển thị cho các task
++ Dark/Light Mode
+- Skill Tracker ( theo dõi quá trình đạt đc mục tiêu, kỹ năng gì đó): 
++Cho phép user đặt ra những kỹ năng muốn đạt được ( TOEIC 800, Backend, FrontEnd, Android App,...), ở mỗi mục tiêu kỹ năng đó, user cần liệt kê các bước, giai đoạn để đạt đc kỹ năng này.
++ Khi lên lịch, sắp xếp công việc ở Calendar, sẽ có một mục Skill ( hiển thị những kỹ năng user đã đặt ra) để user chọn cv đó phục vụ cho mục tiêu nào
++ Tạo một thanh progress: khi hoành thành đc mỗi bước, giai đoạn của kỹ năng, tăng thanh progess theo % ( vd có 5 bước, xong 1 bước sẽ tăng lên 20%)

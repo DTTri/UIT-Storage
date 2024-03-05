@@ -1,0 +1,3 @@
+Các transition: FadeTo,...
+Khi nhấp vào một task thì bật page SetAppointment lên, nhưng chưa cho chỉnh sửa, nhấp vào một nút trên đó thì mới đc chỉnh sửa
+Notes trong task Details có thể scroll xuống để xem

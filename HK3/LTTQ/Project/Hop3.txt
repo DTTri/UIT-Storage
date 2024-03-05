@@ -1,0 +1,9 @@
+DoListy
+*Chọn ý tưởng UI: Vote ngay
+App mẫu
+Cách xây dựng app
+Drive
+Github
+Cách collab
+Design Patterns
+Phân chia công việc

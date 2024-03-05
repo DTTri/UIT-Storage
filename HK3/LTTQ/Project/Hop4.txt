@@ -1,0 +1,23 @@
+----------------------------------------XỬ LÍ LOGIC --------------------------------------
+------------------------------------ CÔNG VIỆC DỰ KIẾN -----------------------------------
+
+
+Tuần này:
+- Tất cả Page đều có nút tạo, chỉnh sửa, complete Task đc
+- Page của Nam: xem đc Task theo ngày, nhấp vào từng Task hiện Task Details
+- Page của H.Thịnh: xem đc Task theo ngày, các Task hiển thị trên lịch theo đúng khung giờ, task nào complete thì đổi màu, nhấn vào con mắt chuyển qua day Page hiện task của ngày đó
+- Page của V.Thinh: xem đc Task theo ngày, những ngày nào có task chưa hoàn thành thì có 1 kí hiệu ở ô của ngày đó, nhấn vào con mắt chuyển qua page Day mở sẵn Detail của task đó, nhấn vào con mắt chuyển qua day Page hiện task của ngày đó
+- Page của Trí: có kí hiệu ngày nào còn task, nhấp vào tháng nào chuyển qua page Month và hiện tháng đó, xem đc Goals của mỗi năm, làm page tạo Goals
+
+Tuần sau:
+- Page Create Task: thêm phần Task Details, cho nhiều chức năng như một Editor: in đậm, in nghiêng, gạch bỏ,...
+- Thiết kế lại Navigations
+- Page Pomodoro
+- Page Setting: Dark Mode, Startup khi máy vừa bật lên, Enable/Disable Sounds
+- Page Feedback: nội dung Feedback, mail của người Feedback ( để mình respond),...
+- Weather Forecast
+- Database
+
+
+
+

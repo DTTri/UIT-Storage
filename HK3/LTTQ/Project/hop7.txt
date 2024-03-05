@@ -1,0 +1,26 @@
+Review:
+ - So UI với Canva
+ - MacOS, Startup
+
+
+
+
+Task tuần này:
+- MacOS, startup
+-Tạo file setup, có chức năng Update
+-Theo dõi kiểm soát lỗi (log)
+-Báo cáo:
+ + Báo cáo đồ án (word/docs) (theo mẫu báo cáo đồ án CNPM)
+ + Slide (Powerpoint/Canva/...)
+ + Videoclip demo
+ + Web
+
+
+Sửa:
+- WeekPage: appointment.Count==1
+- DayPage: chỉnh sửa thêm
+- MacOS: popup lên bị lỗi
+- Navigation cho Settings, Weather ( bỏ khỏi Tabbar, click để PushAsync lên)
+- Sounds ( for all): click.mp3 cho tất cả các button, check.mp3 cho Checkbox
+- AppThemeBinding (Light/Dark mode): https://www.telerik.com/blogs/handling-light-dark-mode-dotnet-maui
+- Con mắt navigate sang page Nam và display đúng ngày

@@ -1,0 +1,13 @@
+Dạng chuẩn 1: Không đa trị
+Dạng chuẩn 2: 
+Xét các khóa:
++ Khóa có 1 thuộc tính không cần xét ( vì không tách nhỏ đc nữa)
++ Khóa có trên 2 thuộc tính: xét từng tập con thực sự của khóa, nếu bao đóng của tập con đẻ ra thuộc tính khác -> các thuộc tính không khóa ko phụ thuộc đầy đủ vào khóa -> Không thỏa DC2
+    nếu không đẻ -> các thuộc tính không khóa phụ thuộc đày đủ vào khóa -> đạt DC2
+Dạng chuẩn 3:
+Xét từng PTH trong F
+Ở mỗi PTH phải thỏa 1 trong 2 thứ:
+- Vế trái là siêu khóa
+- Vế phải là thuộc tính khóa
+Dạng chuẩn BC:
+Tất cả PTH đểu có vế trái là siêu khóa

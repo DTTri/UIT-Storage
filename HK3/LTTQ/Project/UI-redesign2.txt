@@ -1,0 +1,17 @@
+- Dịch 2 arrow lại gần hơn   ok
+- Year Label to ra           ok
+- Kéo section bên phải lên một chút, tăng HeighRequest của goalFrame  ok
+- Đổi icon add Goal ok
+- Goals Label qua phải chút, nhỏ hơn chút  ok
+- Thay StackLayout bằng Layout khác (tìm hiểu Scroll) ok
+- Thêm icon checkbox  ok
+- Tìm hiểu hiệu ứng khi arrow, addGoals: Shadow phát sáng,...   ok
+- Sửa lại SetGoals Page,   ok
+thêm nút edit khi xem goals đã tạo và màu chữ khi disabled
+- Khi thay đổi năm của goal
+- Tìm hiểu cách optimize khi add a goal.
+
+Dời lại mai họp
+Nhắc ae chuyển page tạo appointment sang popup
+Chỉnh UI cho giống canva ( border, cornerradius 30 của frame)
+Nói Nam thay cách navigate

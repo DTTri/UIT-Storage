@@ -1,0 +1,21 @@
+- 02/01 báo cáo ( có thể sớm hoặc trễ hơn, nhưng 2/1 là hợp lí nhất)
+- Bàn về Database 
+- Weather của Nam
+- Những thứ cần chỉnh sửa, tạo thêm trong tuần này:
+ + Màu của app
+ + Task có checkbox (state: DONE)
+ + Tải lại các button đẹp hơn: chỉnh màu, tăng pixel
+ + Thêm sound, noti cho app
+ 
+
+*Database: màu, Goals
+UI: màu, checkbox, button - Trí
+Chức năng: sound, Notifications
+Page setting: On/Off Sound, Dark/Light mode, About ( Supported Platforms, Website, Version), Feedback
+*MacOS
+
+UI: Trí
+Database: V.Thinh
+Sound, Noti: H.Thinh
+MacOS: tìm hiểu thêm
+Setting: Nam

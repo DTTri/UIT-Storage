@@ -1,0 +1,15 @@
+- Những thứ cần học ( trình tự, số lượng, mức độ) và nguồn học
+- Sự liên kết, cách kết nối giữa những kiến thức đó
+- Bản phác thảo app
+- Timeline
+- Drive, Github
+- Installer
+- Design pattern
+
+->
+Họp lần 2 (10/10/2023)
+*Nội dung dự kiến:
+- Trí trình bày Timeline cho dự án ( cần ae góp ý, bổ sung)
+- Trí khái quát sơ cái structure của một project làm bằng MAUI .NET
+- Ae trao đổi với nhau về nguồn học MAUI, XAML với thống nhất về thời gian mình sẽ bỏ ra chỉ để học ( học trước khi bắt đầu làm) 
+Ae thấy cần trao đổi về vđ gì nữa trong buổi họp tới thì rep dưới đây luôn nha ae 

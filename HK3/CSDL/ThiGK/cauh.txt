@@ -1,0 +1,10 @@
+Mình có thể hiểu bảng PHANPHOI có 3 loại xưởng: 
+1.xưởng chỉ lấy SP từ NCC 3 (loại mình cần tìm)
+2. xưởng lấy từ NCC 3 và có lấy thêm ít nhất từ một NCC khác 3
+3. xưởng chỉ lấy NCC khác mà không lấy từ NCC 3
+*3 loại trên xung khắc nhau, không có xưởng nào nằm ở cả 2 hay 3 loại
+A bao gồm 1 và 2
+B bao gồm 2 và 3
+A - B = 1
+->P2 - P1 = loại 1 ( loại mình cần tìm)
+Vì vậy mình nghĩ P2 có thể không cần điều kiện MCC=3 (P2 bao gồm cả 1 2 3) vì khi trừ P1 sẽ loại bỏ cả 2 và 3

@@ -1,0 +1,5 @@
+Dạ xin chào thầy, tụi em là nhóm TechTesseract, sau đây tụi em xin phép trình bày về ứng dụng của mình- DoListy, trước tiên bạn Vĩnh Thịnh nhóm em sẽ giới thiệu sơ lược một chút về nhóm tụi em và ứng dụng mà tụi em đã xây dựng.
+Thịnh: .....
+Dạ thưa thầy, để dễ dàng tiếp cận với người dùng hơn thì tụi em đã xây dựng website cho DoListy. Website có giới thiệu một chút về mục đích, cũng có thể gọi là sứ mệnh mà DoListy đang mang, đây là phần demo những tính năng mà ứng dụng này mang lại, và hơn hết là phần Download, hiện tại thì tụi em đã hỗ trợ tải file installer về mấy hđh Windows và đang trong quá trình tìm tòi, nghiên cứu hỗ trợ tải cho macOS
+Và phần cuối của website không thể thiếu cho quá trình phát triển sau này của DoListy chính là cho phép user Feedback, tụi em nghĩ rằng user cũng chính là những người đồng hành cùng tụi em trong công cuộc phát triển ứng dụng DoListy này ngày một hoàn thiện hơn
+Sau đây chính là video demo thao tác trực tiếp trên ứng dụng.

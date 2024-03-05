@@ -1,0 +1,6 @@
+Cho mot grid column = 1, row= n
+Mỗi row sẽ là 1 frame+ button đè lên -> sau này khi click vào sẽ xác định đc content của goal đó nhờ vào số row+ năm hiện tại
+Việc chọn xem detail của Goal sẽ phụ thuộc vào vị trí sắp xếp của Goal đó
+-> cho phép user swap thứ tự các Goal ( khi muốn swap, click vào 1 goal, các goal khác sẽ hiện ra icon swap, click vào icon swap của goal muốn swap
+-> chỉ cần swap text của Frame)
+-> việc xem detail của goal sẽ dùng lại SetGoals page, nhưng disable tất cả entry, và để một icon edit trên góc, khi user click vào đó thì mới enable các entry+ 2 button)
